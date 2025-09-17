@@ -1,13 +1,13 @@
 {
-  "heading": "Korištenje javnog prijevoza u cijeloj EU",
-  "subheading": "Opći postotak ljudi koji su koristili vlakove, autobuse, autobuse i trolejbuse kao oblik prijevoza u 2020. godini; Prosjek Europske unije: 12,8%",
+  "heading": "Korištenje javnog prijevoza diljem EU",
+  "subheading": "Opći postotak ljudi koji su koristili vlakove, autobuse, autobuse i trolejbuse kao oblik prijevoza u 2020. godini; prosjek Europske unije: 12,8%",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "od ljudi",
+  "tooltip1": "ljudi",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
   "textNote": "",
-  "textDataAccess": "Pristupite podacima",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"
 }

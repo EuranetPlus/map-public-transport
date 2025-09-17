@@ -1,13 +1,13 @@
 {
-  "heading": "Uso del trasporto pubblico in tutta l'UE",
-  "subheading": "Percentuale generale di persone che hanno utilizzato treni, autopullman, autobus e filobus come mezzo di trasporto nel 2020; Media dell'Unione Europea: 12,8%",
+  "heading": "Utilizzo dei trasporti pubblici nell'UE",
+  "subheading": "Percentuale generale di persone che hanno utilizzato treni, pullman, autobus e filobus come mezzo di trasporto nel 2020; media dell'Unione Europea: 12,8%",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "delle persone",
+  "tooltip1": "di persone",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=it",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

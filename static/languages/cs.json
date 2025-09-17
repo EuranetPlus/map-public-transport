@@ -1,13 +1,13 @@
 {
-  "heading": "Využití veřejné dopravy po celé EU",
-  "subheading": "Obecné procento lidí, kteří v roce 2020 používali jako formu dopravy vlaky, autokary, autobusy a trolejbusy; Průměr Evropské unie: 12,8 %",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "heading": "Využívání veřejné dopravy v celé EU",
+  "subheading": "Celkové procento lidí, kteří v roce 2020 používali vlaky, autokary, autobusy a trolejbusy jako dopravní prostředek; průměr Evropské unie: 12,8 %",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": "lidí",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
   "textNote": "",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=cs",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
   "textCountryClick": "Klikněte pro více informací"
 }

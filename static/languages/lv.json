@@ -1,7 +1,7 @@
 {
   "heading": "Sabiedriskā transporta izmantošana visā ES",
-  "subheading": "To cilvēku kopējā procentuālā daļa, kuri 2020. gadā izmantoja vilcienus, autobusus, autobusus un trolejbusus kā pārvietošanās veidu; Eiropas Savienībā vidēji: 12,8%",
-  "legend1": "Nav pieejami dati",
+  "subheading": "To cilvēku kopējais īpatsvars, kuri 2020. gadā kā pārvietošanās līdzekli izmantoja vilcienus, autokarus, autobusus un trolejbusus; Eiropas Savienības vidējais rādītājs: 12,8 %",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "cilvēku",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
@@ -9,5 +9,5 @@
   "textNote": "",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

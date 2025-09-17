@@ -1,6 +1,6 @@
 {
-  "heading": "Gebruik van openbaar vervoer in de hele EU",
-  "subheading": "Algemeen percentage mensen dat in 2020 treinen, touringcars, bussen en trolleybussen als vervoermiddel gebruikte; Gemiddelde Europese Unie: 12,8%",
+  "heading": "Gebruik van openbaar vervoer in de EU",
+  "subheading": "Algemeen percentage mensen dat in 2020 gebruik maakte van treinen, touringcars, bussen en trolleybussen als vervoermiddel; gemiddelde voor de Europese Unie: 12,8%",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van mensen",
   "textSourceDescription": "Bron",
@@ -9,5 +9,5 @@
   "textNote": "",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

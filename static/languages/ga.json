@@ -1,13 +1,13 @@
 {
   "heading": "Úsáid iompair phoiblí ar fud an AE",
-  "subheading": "Céatadán ginearálta na ndaoine a d’úsáid traenacha, cóistí mótair, busanna agus busanna tralaí mar mhodh iompair in 2020; Meán an Aontais Eorpaigh: 12.8%",
+  "subheading": "Céatadán ginearálta na ndaoine a d'úsáid traenacha, cóistí mótair, busanna agus busanna tralaí mar chineál iompair in 2020; meán an Aontais Eorpaigh: 12.8%",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "de dhaoine",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
   "textNote": "",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=ga",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

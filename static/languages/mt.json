@@ -1,13 +1,13 @@
 {
   "heading": "L-użu tat-trasport pubbliku madwar l-UE",
-  "subheading": "Perċentwal ġenerali ta 'nies li użaw ferroviji, kowċis, karozzi tal-linja u trolley bus bħala forma ta' trasport fl-2020; Medja tal-Unjoni Ewropea: 12.8%",
-  "legend1": "Ebda data disponibbli",
+  "subheading": "Perċentwal ġenerali ta’ nies li użaw ferroviji, kowċis bil-mutur, karozzi tal-linja u trolley buses bħala forma ta’ trasport fl-2020; Medja tal-Unjoni Ewropea: 12.8%",
+  "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "tan-nies",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "",
-  "textDataAccess": "Aċċessa għad-data",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

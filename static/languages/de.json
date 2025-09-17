@@ -1,13 +1,13 @@
 {
   "heading": "Nutzung öffentlicher Verkehrsmittel in der EU",
-  "subheading": "Allgemeiner Prozentsatz der Personen, die im Jahr 2020 Züge, Reisebusse, Busse und Trolleybusse als Fortbewegungsmittel nutzten; EU-Durchschnitt: 12,8 %",
+  "subheading": "Gesamtanteil der Personen, die im Jahr 2020 Züge, Reisebusse, Busse und Oberleitungsbusse als Verkehrsmittel nutzten; Durchschnitt der Europäischen Union: 12,8 %",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "von Leuten",
+  "tooltip1": "von Menschen",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
   "textNote": "",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

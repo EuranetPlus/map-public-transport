@@ -1,13 +1,13 @@
 {
-  "heading": "Korzystanie z transportu publicznego w całej UE",
-  "subheading": "Ogólny odsetek osób, które korzystały z pociągów, autokarów, autobusów i trolejbusów jako środka transportu w 2020 r.; Średnia Unii Europejskiej: 12,8%",
+  "heading": "Korzystanie z transportu publicznego w UE",
+  "subheading": "Ogólny odsetek osób korzystających z pociągów, autokarów, autobusów i trolejbusów jako środka transportu w 2020 r.; średnia dla Unii Europejskiej: 12,8%",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "ludzi",
   "textSourceDescription": "Źródło",
-  "textSource": "Eurostatu",
+  "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
   "textNote": "",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

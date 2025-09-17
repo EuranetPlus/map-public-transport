@@ -1,13 +1,13 @@
 {
-  "heading": "Offentlig transport i hele EU",
-  "subheading": "Generel procentdel af mennesker, der brugte tog, busser, busser og trolleybusser som en form for transport i 2020; EU-gennemsnit: 12,8 %",
-  "legend1": "Ingen tilgængelig data",
-  "tooltip1": "af folk",
+  "heading": "Brug af offentlig transport i hele EU",
+  "subheading": "Generel procentdel af personer, der brugte tog, rutebiler, busser og trolleybusser som transportform i 2020; Gennemsnit i EU: 12,8 %",
+  "legend1": "Ingen data tilgængelige",
+  "tooltip1": "af mennesker",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Bemærk",
+  "textNoteDescription": "Note",
   "textNote": "",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=da",
-  "textCountryClick": "Klik for mere info"
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
+  "textCountryClick": "Klik for mere information"
 }

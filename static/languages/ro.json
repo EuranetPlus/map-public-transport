@@ -1,13 +1,13 @@
 {
-  "heading": "Utilizarea transportului public în întreaga UE",
-  "subheading": "Procentul general de persoane care au folosit trenuri, autocare, autobuze și troleibuze ca formă de transport în 2020; Media Uniunii Europene: 12,8%",
-  "legend1": "Nici o informatie disponibila",
-  "tooltip1": "al oamenilor",
+  "heading": "Utilizarea transportului public în UE",
+  "subheading": "Procentul general de persoane care au folosit trenuri, autocare, autobuze și troleibuze ca formă de transport în 2020; media Uniunii Europene: 12,8%",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "de oameni",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
-  "textNoteDescription": "Notă",
+  "textNoteDescription": "Nota",
   "textNote": "",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
-  "textCountryClick": "Click pentru mai multe informații"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=ro",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

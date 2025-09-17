@@ -1,13 +1,13 @@
 {
-  "heading": "A tömegközlekedés használata az EU-ban",
-  "subheading": "Azon emberek általános százalékos aránya, akik vonatot, autóbuszt, buszt és trolibuszt használtak közlekedési eszközként 2020-ban; Európai Uniós átlag: 12,8%",
-  "legend1": "Nincs elérhető adat",
+  "heading": "Tömegközlekedési használat az EU-ban",
+  "subheading": "A vonatot, autóbuszokat, buszokat és trolibuszokat közlekedési eszközként használók általános százalékos aránya 2020-ban; az Európai Unió átlaga: 12,8%",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "emberek",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
+  "textNoteDescription": "Jegyzet",
   "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

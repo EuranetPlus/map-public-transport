@@ -1,13 +1,13 @@
 {
   "heading": "Viešojo transporto naudojimas visoje ES",
-  "subheading": "Bendras procentas žmonių, kurie 2020 m. naudojosi traukiniais, autobusais, autobusais ir troleibusais kaip susisiekimo forma; Europos Sąjungos vidurkis: 12,8 proc.",
+  "subheading": "Bendras žmonių, kurie 2020 m. naudojosi traukiniais, autobusais, tolimojo susisiekimo autobusais ir troleibusais kaip transporto priemone, procentas; Europos Sąjungos vidurkis: 12,8 %",
   "legend1": "Nėra duomenų",
   "tooltip1": "žmonių",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
   "textNote": "",
-  "textDataAccess": "Pasiekite duomenis",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

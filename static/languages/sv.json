@@ -1,13 +1,13 @@
 {
   "heading": "Användning av kollektivtrafik i hela EU",
-  "subheading": "Generell andel personer som använde tåg, motorbussar, bussar och trådbussar som en form av transport 2020; EU-genomsnitt: 12,8 %",
-  "legend1": "Ingen data tillgänglig",
-  "tooltip1": "Av människor",
+  "subheading": "Generell andel personer som använde tåg, bussar och trådbussar som transportmedel år 2020; genomsnittet i Europeiska unionen: 12,8 %",
+  "legend1": "Inga data tillgängliga",
+  "tooltip1": "av människor",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
   "textNote": "",
-  "textDataAccess": "Få åtkomst till data",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

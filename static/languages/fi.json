@@ -1,13 +1,13 @@
 {
-  "heading": "Julkisen liikenteen käyttö kaikkialla EU:ssa",
-  "subheading": "Yleinen prosenttiosuus ihmisistä, jotka käyttivät junia, linja-autoja, busseja ja johdinautoja kulkuvälineenä vuonna 2020; Euroopan unionin keskiarvo: 12,8 %",
-  "legend1": "Tietoja ei ole saatavilla",
+  "heading": "Julkisen liikenteen käyttö EU:ssa",
+  "subheading": "Junien, linja-autojen, linja-autojen ja johdinautojen kulkuvälineenä käyttäneiden ihmisten yleinen prosenttiosuus vuonna 2020; Euroopan unionin keskiarvo: 12,8 %",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "ihmisistä",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
   "textNote": "",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=fi",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

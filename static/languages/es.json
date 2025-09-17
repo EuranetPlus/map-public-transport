@@ -1,13 +1,13 @@
 {
-  "heading": "Uso del transporte público en toda la UE",
-  "subheading": "Porcentaje general de personas que utilizaron trenes, autocares, autobuses y trolebuses como medio de transporte en 2020; Media Unión Europea: 12,8%",
-  "legend1": "Datos no disponibles",
-  "tooltip1": "de la gente",
+  "heading": "Uso del transporte público en la UE",
+  "subheading": "Porcentaje general de personas que utilizaron trenes, autocares, autobuses y trolebuses como medio de transporte en 2020; media de la Unión Europea: 12,8 %",
+  "legend1": "No hay datos disponibles",
+  "tooltip1": "de personas",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en",
-  "textCountryClick": "Haga clic para obtener más información"
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=es",
+  "textCountryClick": "Haga clic para más información"
 }
